@@ -17,7 +17,7 @@ const MONGO_URI =
 const DEFAULT_PASSWORD = process.env.DEFAULT_PASSWORD || 'demo123!'
 
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: ['http://localhost:5173', 'https://2b-onboarding.netlify.app/'],
   credentials: true,
   methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'x-role'],
