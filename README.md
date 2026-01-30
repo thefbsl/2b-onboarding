@@ -1,6 +1,8 @@
 # EQ Onboarding (User Guide)
  
- EQ Onboarding is a role-based onboarding workflow for candidates and internal teams (HR, IT, Finance, Admin). Candidates submit application details and track status while internal teams review and approve in stages.
+EQ Onboarding is a role-based onboarding workflow for candidates and internal teams (HR, IT, Finance, Admin). Candidates submit application details and track status while internal teams review and approve in stages.
+
+Live demo: https://2b-onboarding.netlify.app/
  
  ## Roles and permissions
  
